@@ -8,7 +8,7 @@
 
 
 ### Project Findings -
-[EDA Hospital Readmission](https://github.com/joaobecker/eda_humanBody_temperature/blob/master/human_body_temperature_eda.ipynb)
+[EDA Hospital Readmission](https://github.com/joaobecker/eda_hospital_readmission/blob/master/sliderule_dsi_inferential_statistics_exercise_3.ipynb)
 
 
 ### Project Data - 
